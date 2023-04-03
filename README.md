@@ -6,6 +6,28 @@ The stock dust shoe was breaking way too often so I decided to make my own. It w
 
 ## Building it
 
+### BOM
+
+17  M4x0.5x22 Machine screws
+
+17  M4x0.5 Nuts
+
+4   M6x1x14 Machine screws
+
+4   M6x1 Nuts
+
+2   M8x1x24 Machine screws
+
+2   M8x1x12 Pronged Tee Nut
+
+10  T20x12 Wood Screws
+
+7   T20x16 Wood Screws
+
+4   T20x22 Wood Screws
+
+8   
+
 The first part would be the mounting mechanism that is 3D printed. It's 230mm in height so it's likely that it would need to be split in half to fit you printer which is fine. I reused M6x1x14 spare screws from the ShopBot to mount it. To fasten the wooden plate to the mount, there are M6x1 nuts that are inlayed in the mount and M6x1x20 bolts.
 ![20230323_114502](https://user-images.githubusercontent.com/89197469/228607526-8ee60439-f4d1-4194-9f07-ab41a22738cc.jpg)
 
