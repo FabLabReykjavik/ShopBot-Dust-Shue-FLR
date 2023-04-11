@@ -6,17 +6,17 @@ The stock dust shoe was breaking way too often so I decided to make my own. It w
 
 ## BOM
 
-17  M4x0.5x22 Machine screws
+17  M4x22 Machine screws
 
-17  M4x0.5 Nuts
+17  M4 Nuts
 
-4   M6x1x14 Machine screws
+4   M6x14 Machine screws
 
 4   M6x1 Nuts
 
-2   M8x1x24 Machine screws
+2   M8x24 Machine screws
 
-2   M8x1x12 Pronged Tee Nut
+2   M8x12 Pronged Tee Nut
 
 10  T20x12 Wood Screws
 
@@ -27,6 +27,12 @@ The stock dust shoe was breaking way too often so I decided to make my own. It w
 8   6.3x3.1mm Magnets
 
 2   100-120mm Worm Gear Hose Clamp
+
+??? 3D Filament
+
+Some amount of 12mm plywood
+
+A ShopBot
 
 
 ## Making the Parts
